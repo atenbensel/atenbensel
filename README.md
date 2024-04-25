@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anna ten Bensel</h1>
 <h3 align="center">I'm a full stack developer from the USA, working on completing 500 Leetcode problems and making easy-to-follow tutorials of my work!</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=annatenbensel&label=Profile%20views&color=0e75b6&style=flat" alt="annatenbensel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atenbensel" alt="atenbensel" /></a> </p>
