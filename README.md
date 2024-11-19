@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Screder](https://screder.com/)
 
-- 🌱 I’m currently learning **data science**
+- 🌱 I’m currently learning **data science & finance**
 
 - 👯 I’m looking to collaborate on **any and all open source projects**
 
