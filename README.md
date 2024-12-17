@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atenbensel" alt="atenbensel" /></a> </p>
 
-- 🔭 I’m currently working on [Screder](https://screder.com/)
+- 🔭 I’m currently working on [Screder](https://screder.com/) and [Chaincrib](https://www.chaincrib.com/)
 
 - 🌱 I’m currently learning **data science & finance**
 
